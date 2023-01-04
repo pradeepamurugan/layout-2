@@ -1,0 +1,183 @@
+.banner-sec{
+	background-color:gray;
+	padding:100px 0;
+}
+.banner{
+	background-color:#dc3545;
+	height:400px;	
+}
+/*--------------about--------------*/
+.about-sec{
+	position:relative;
+	
+}
+.about-sec:after{
+	content:"";
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background-color:black;
+	transform:skewY(-3deg);
+	z-index:-1;
+}
+.about-info{
+	background-color:#dc3545;
+	height:400px;
+}
+.about-content{
+	background-color:#dc3545;
+	height:100px;
+}
+/*--------------liat-----------------*/
+.list-sec{
+	background-color:white;
+}
+/*-------------content--------------*/
+.content-sec{
+	background-color:gray;
+	
+}
+.content-info{
+	background-color:#dc3545;
+	height:100px;
+}
+.content-details{
+	background-color:#dc3545;
+	height:400px;
+}
+/*---------------services--------------*/
+.service-sec{
+	position:relative;
+}
+.service-sec:after{
+	content:"";
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background-color:black;
+	transform:skewY(-3deg);
+	z-index:-1;
+}
+.service-title{
+	background-color:#dc3545;
+	height:80px;
+}
+.service-content{
+	background-color:#dc3545;
+	height:200px;
+}
+/*-------------portfolio-----------*/
+.port-sec{
+	background-color:gray;
+	
+}
+.port-title{
+	background-color:#dc3545;
+	height:80px;
+}
+.port-img{
+	background-color:#dc3545;
+	height:200px;
+}
+/*----------------testimonial----------------*/
+.test-sec{
+	background-color:white;	
+}
+.test-title{
+	background-color:#dc3545;
+	height:80px;
+}
+.test-content{
+	background-color:#dc3545;
+	height:300px;
+}
+/*----------------pricing--------------------*/
+.pricing-sec{
+	position:relative;
+}
+.pricing-sec:after{
+	content:"";
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background-color:black;
+	transform:skewY(-2deg);
+	z-index:-1;
+}
+.pricing-title{
+	background-color:#dc3545;
+	height:80px;
+}
+.pricing-content{
+	background-color:#dc3545;
+	height:400px;
+}
+/*----------------------question-----------------*/
+.ques-sec{
+		background-color:white;
+}
+.box{
+	background-color:#dc3545;
+	height:80px;
+}
+/*------------------team--------------------*/
+.team-sec{
+	position:relative;
+}
+.team-sec:after{
+	content:"";
+	position:absolute;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background-color:black;
+	transform:skewY(-2deg);
+	z-index:-1;
+}
+.team-title{
+	background-color:#dc3545;
+	height:50px;
+}
+.team-content{
+	background-color:#dc3545;
+	height:400px;
+}
+/*---------------------contact----------------*/
+.contact-sec{
+	background-color:gray;
+}
+.contact-title{
+	background-color:#dc3545;
+	height:50px;
+}
+.contact-content{
+	background-color:#dc3545;
+	height:200px;
+}
+.contact-form{
+	background-color:#dc3545;
+	height:420px;
+}
+/*----------------link-------------------*/
+.link-sec{
+	background-color:black;
+}
+.link-content{
+	background-color:#dc3545;
+	height:400px;
+}
+/*-----------------footer--------------------*/
+.footer-sec{
+	background-color:gray;
+}
+.footer{
+	background-color:#dc3545;
+	height:80px;
+}
